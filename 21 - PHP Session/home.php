@@ -1,6 +1,6 @@
 
 <?php
-// FIRST SCRIPT
+// FIRST PHP SCRIPT
 
   // Using session_start() to run the global variable on this homepage.php
   // from index.php or our parent file to avoid undefined variables
@@ -21,7 +21,7 @@
 
 
 <?php
-// SECOND SCRIPT
+// SECOND PHP SCRIPT
 
   // Once we login using the index.php
   // we redirected to login page or the login.php
@@ -51,7 +51,7 @@
 </html>
 
 <?php
-// THIRD SCRIPT
+// THIRD PHP SCRIPT
 
   // Condition using isset() to see if the log out button was clicked
   if(isset($_POST["logout"])) {
