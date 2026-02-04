@@ -41,7 +41,7 @@
   // Changing/update the capital
   $capitals["USA"] = "Las Vegas"; // look up the "key" and set a = new value
 
-  // Adding anew key=>value pair in an Associative Array
+  // Adding a new key=>value pair in an Associative Array
   $capitals["China"] = "Beijing";
 
   // array_pop() function to remove the last element of an Associative Array
