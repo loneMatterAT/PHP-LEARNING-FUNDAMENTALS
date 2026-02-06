@@ -7,11 +7,6 @@
   // We use include() function to connect the database.php file 
   include("database.php");
 
-  
-
-
-
-
 
   // 2. PDP (PHP Data Objects) Intermediate
 ?>
